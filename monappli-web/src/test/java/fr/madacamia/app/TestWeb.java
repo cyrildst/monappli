@@ -18,12 +18,12 @@ public class TestWeb {
 	
 	@Test
 	public void test03() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 	
 	@Test
 	public void test04() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 	
 	@Test
