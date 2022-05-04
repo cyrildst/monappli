@@ -30,5 +30,15 @@ public class TestWeb {
 	public void test05() {
 		assertTrue(true);
 	}
+	
+	@Test
+	public void test06() {
+		assertTrue(false);
+	}
+	
+	@Test
+	public void test07() {
+		assertTrue(false);
+	}
 
 }
